@@ -13,3 +13,15 @@ float3 = 100.1
 status_am = true
 status_noon = true
 status_pm = false
+
+name = "Johnny"
+other_name = "Alaina"
+pet = "Dog"
+
+puts other_name
+puts name
+puts pet
+puts float1
+puts float3
+puts float2
+puts status_am
